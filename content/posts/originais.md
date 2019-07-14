@@ -19,6 +19,4 @@ dsdsdsds
 * dsds
 * dsds
 
-
-
 ![dwdwdwdw](/images/uploads/banco-imagens-gratis.png)
