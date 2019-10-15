@@ -1,6 +1,8 @@
 ---
 title: Felipe costa
 date: '2019-08-20T14:10:43-03:00'
+categories:
+  - '#livro'
 autoThumbnailImage: false
 thumbnailImagePosition: left
 coverImage: ''
