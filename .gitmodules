@@ -4,3 +4,6 @@
 [submodule "static/admin"]
 	path = static/admin
 	url = https://github.com/woliveiras/netlify-cms-base.git
+[submodule "themes/newsroom"]
+	path = themes/newsroom
+	url = https://github.com/onweru/newsroom.git
