@@ -1,8 +1,14 @@
 ---
 title: ok
 date: '2020-09-12T23:06:32-03:00'
-autoThumbnailImage: false
+categories:
+  - fds
+tags:
+  - fds
+keywords:
+  - fds
+autoThumbnailImage: true
 thumbnailImagePosition: top
-coverImage: /images/uploads/cover-post.jpg
+coverImage: /images/uploads/carbon.png
 ---
 fdsfsdfs
